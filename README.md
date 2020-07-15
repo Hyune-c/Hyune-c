@@ -1,4 +1,4 @@
-![Hyune-c github stats](https://github-readme-stats.vercel.app/api?username=Hyune-c&show_icons=true&hide_rank=true&hide_border=true)
+![Hyune-c github stats](https://github-readme-stats.vercel.app/api?username=Hyune-c&show_icons=true&hide_rank=true)
 
 # :ok_man:&nbsp;최병현 | Back-End 개발자
 
