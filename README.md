@@ -4,3 +4,5 @@
 결제에 대한 도메인 지식을 가지고 있는 Back-End 개발자입니다
 
 :ledger:&nbsp;&nbsp;&nbsp;[Resume PDF](https://github.com/Hyune-c/TIL/blob/master/Resume/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EC%B5%9C%EB%B3%91%ED%98%84.pdf)
+
+![Hyune-c github stats](https://github-readme-stats.vercel.app/api?username=Hyune-c&show_icons=true)
