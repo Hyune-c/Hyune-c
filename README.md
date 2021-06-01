@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;항상 팀원들에게 도움이 되는, 가장 같이 일하고 싶은 백엔드 개발자가 되고 싶습니다.  
 
 📝&nbsp;&nbsp;&nbsp;[Resume PDF](https://github.com/Hyune-c/TIL/raw/master/Resume/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EC%B5%9C%EB%B3%91%ED%98%84.pdf)  
-📆&nbsp;&nbsp;&nbsp;[STUDY LOG](https://www.notion.so/47fa41ed6fcb45b284aadaa41483ea44?v=8ad0f62cac614677af76cb03a743c994)
+📆&nbsp;&nbsp;&nbsp;[Study Log](https://www.notion.so/47fa41ed6fcb45b284aadaa41483ea44?v=8ad0f62cac614677af76cb03a743c994)
 
 </br>
 
