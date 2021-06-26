@@ -7,6 +7,15 @@
 📝&nbsp;&nbsp;&nbsp;[Resume](https://www.notion.so/Byung-Hyeon-Choi-203ddcc7f3d74e4e819acac3627d9e26)  
 📆&nbsp;&nbsp;&nbsp;[Study Log](https://www.notion.so/47fa41ed6fcb45b284aadaa41483ea44?v=8ad0f62cac614677af76cb03a743c994)
 
+![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
+![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)   
+![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 </br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hyune-c&theme=monokai)](https://github.com/Hyune-c)
