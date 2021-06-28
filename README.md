@@ -9,7 +9,7 @@
 
 - Language ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 - Back End &nbsp;![](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)   
-- Devops &nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=flat-square&logo=circleci&logoColor=white) ![](https://img.shields.io/badge/githubactions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+- DevOps &nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=flat-square&logo=circleci&logoColor=white) ![](https://img.shields.io/badge/githubactions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 - Etc &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hyune-c)](https://github.com/Hyune-c)
