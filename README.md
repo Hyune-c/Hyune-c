@@ -6,6 +6,7 @@
 
 📝&nbsp;&nbsp;&nbsp;[Resume](https://www.notion.so/Byung-Hyeon-Choi-203ddcc7f3d74e4e819acac3627d9e26)  
 📆&nbsp;&nbsp;&nbsp;[Study Log](https://www.notion.so/47fa41ed6fcb45b284aadaa41483ea44?v=8ad0f62cac614677af76cb03a743c994)
+📰&nbsp;&nbsp;&nbsp;[Blog](https://hyune-c.tistory.com/)
 
 - Language ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 - Back End &nbsp;![](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)   
