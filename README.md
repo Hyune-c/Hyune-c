@@ -5,7 +5,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;항상 팀원들에게 도움이 되는, 그리고 같이 일하고 싶은 개발자가 되기 위해 노력합니다.
 
 📝&nbsp;&nbsp;&nbsp;[Resume](https://www.notion.so/Byung-Hyeon-Choi-203ddcc7f3d74e4e819acac3627d9e26)  
-📆&nbsp;&nbsp;&nbsp;[Study Log](https://www.notion.so/47fa41ed6fcb45b284aadaa41483ea44?v=8ad0f62cac614677af76cb03a743c994)  
 📰&nbsp;&nbsp;&nbsp;[Blog](https://hyune-c.tistory.com/)
 
 - Language ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
