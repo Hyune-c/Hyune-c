@@ -1,7 +1,6 @@
 # :ok_man:&nbsp;최병현 | Back-End 개발자 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyune-c%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-:wave:&nbsp;&nbsp;&nbsp;인프라와 기술지원 경험으로 대고객 민원에서 서비스 배포까지 IT 비지니스의 A to Z 운영 경험과 결제 도메인 지식을 가진 백엔드 개발자 입니다.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;항상 팀원들에게 도움이 되는, 그리고 같이 일하고 싶은 개발자가 되기 위해 노력합니다.
+:wave:&nbsp;&nbsp;&nbsp;인프라와 기술지원 경험으로 대고객 민원에서 서비스 배포까지 IT 비지니스의 A to Z 운영 경험과 결제 도메인 지식을 가진 백엔드 개발자 입니다. 항상 팀원들에게 도움이 되는, 그리고 같이 일하고 싶은 개발자가 되기 위해 노력합니다.
 
 📝&nbsp;&nbsp;&nbsp;[Resume](https://www.notion.so/Byung-Hyeon-Choi-203ddcc7f3d74e4e819acac3627d9e26)  
 📰&nbsp;&nbsp;&nbsp;[Blog](https://hyune-c.tistory.com/)
