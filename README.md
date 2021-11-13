@@ -20,4 +20,4 @@ Experience 👨‍💻
 ---
 ### Code Reviewer
 
-`2021.11` 코드스쿼드 cocoa Teaching Assistant
+`2021.11` 코드스쿼드 cocoa - Teaching Assistant
