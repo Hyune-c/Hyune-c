@@ -14,8 +14,7 @@ Tech Stack
 ![](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=flat-square&logo=circleci&logoColor=white) ![](https://img.shields.io/badge/githubactions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 
-![Hyune-c github stats](https://github-readme-stats.vercel.app/api?username=Hyune-c&hide=issues&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyune-c&layout=compact)](https://github.com/Hyune-c/github-readme-stats)
+![Hyune-c github stats](https://github-readme-stats.vercel.app/api?username=Hyune-c&hide=issues&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyune-c&layout=compact)](https://github.com/Hyune-c/github-readme-stats)
 
 Experience
 ---
