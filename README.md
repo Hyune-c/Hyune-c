@@ -15,7 +15,7 @@ Tech Stack 🔧
 
 ![Hyune-c github stats](https://github-readme-stats.vercel.app/api?username=Hyune-c&hide=issues&show_icons=true)
 
-Experience 👨‍💻 
+Experience ⭐️
 ---
 
 ### Code Reviewer
