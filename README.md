@@ -18,6 +18,8 @@ Tech Stack 🔧
 Experience ⭐️
 ---
 
+### [Book & Study](https://eastern-starflower-6ac.notion.site/Book-Study-8ee0a40475e64d48851304700ffb9319)
+
 ### Code Reviewer
 
 `2021.11` 코드스쿼드 cocoa - Teaching Assistant
