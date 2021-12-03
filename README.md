@@ -30,5 +30,5 @@ Experience ⭐️
 
 ### Education
 
-`2021.07~2021.09` NextStep - TDD, Clean Code with Java 12기 수료  
-`2020.01~2020.07` 코드스쿼드 - 자바 백엔드 과정 수료  
+`2021.07 ~ 2021.09` NextStep - TDD, Clean Code with Java 12기 수료  
+`2020.01 ~ 2020.07` 코드스쿼드 - 자바 백엔드 과정 수료  
