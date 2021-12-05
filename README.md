@@ -15,7 +15,7 @@
 
 ![Hyune-c github stats](https://github-readme-stats.vercel.app/api?username=Hyune-c&hide=issues&show_icons=true)
 
-⭐️ Experience 
+🌟 Experience 
 ---
 
 ### [Book & Study](https://eastern-starflower-6ac.notion.site/Book-Study-8ee0a40475e64d48851304700ffb9319)
