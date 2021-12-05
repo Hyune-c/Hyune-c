@@ -6,7 +6,7 @@
 - [Resume](https://www.notion.so/Byung-Hyeon-Choi-203ddcc7f3d74e4e819acac3627d9e26)
 - [Blog](https://hyune-c.tistory.com/)
 
-Tech Stack 🔧 
+🔧 Tech Stack
 ---
 
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
@@ -15,7 +15,7 @@ Tech Stack 🔧
 
 ![Hyune-c github stats](https://github-readme-stats.vercel.app/api?username=Hyune-c&hide=issues&show_icons=true)
 
-Experience ⭐️
+⭐️ Experience 
 ---
 
 ### [Book & Study](https://eastern-starflower-6ac.notion.site/Book-Study-8ee0a40475e64d48851304700ffb9319)
