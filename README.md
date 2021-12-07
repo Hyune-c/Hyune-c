@@ -3,7 +3,7 @@
 :wave:&nbsp;&nbsp;&nbsp;인프라와 기술지원 경험으로 대고객 민원에서 서비스 배포까지 IT 비지니스의 A to Z 운영 경험과 결제 도메인 지식을 가진 백엔드 개발자 입니다. 항상 도움이 되는, 그리고 같이 일하고 싶은 개발자가 되기 위해 노력합니다.
 
 - E-mail: choi8608@gmail.com
-- [Resume](https://www.notion.so/Byung-Hyeon-Choi-203ddcc7f3d74e4e819acac3627d9e26)
+- [Resume](https://eastern-starflower-6ac.notion.site/203ddcc7f3d74e4e819acac3627d9e26)
 - [Blog](https://hyune-c.tistory.com/)
 
 🔧 Tech Stack
