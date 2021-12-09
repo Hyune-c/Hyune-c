@@ -26,7 +26,8 @@
 
 ### Code Reviewer
 
-`2021.11` 코드스쿼드 cocoa - Teaching Assistant
+`2022.01 ~ ` 코드스쿼드 Masters - Reviewer
+`2021.11` 코드스쿼드 Cocoa - Teaching Assistant
 
 ### Education
 
