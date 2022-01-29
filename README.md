@@ -20,7 +20,7 @@
 
 ### Presentation
 
-`2021.12.01` 코드스쿼드 미니마우스 컨퍼런스 - Pagination 기술 선택하기 [ppt](https://docs.google.com/presentation/d/1QZ28dxJaPvExyqyO70bhE6EuTloz1l5cqTpDjxhf4y8/edit#slide=id.g1034e8bbc9b_21_376)
+`2021.12.01` 코드스쿼드 미니마우스 컨퍼런스 - Pagination 기술 선택하기 [PPT](https://docs.google.com/presentation/d/1QZ28dxJaPvExyqyO70bhE6EuTloz1l5cqTpDjxhf4y8/edit#slide=id.g1034e8bbc9b_21_376)
 
 ### Code Reviewer
 
