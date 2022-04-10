@@ -15,7 +15,7 @@
 
 ### Code Reviewer
 
-`2022.04~2022.07` 코드스쿼드 마스터즈 백엔드 Reviewer
+`2022.04~2022.07` 코드스쿼드 마스터즈 백엔드 Reviewer  
 `2021.11` 코드스쿼드 코코아 TA(Teaching Assistant)
 
 ### Education
