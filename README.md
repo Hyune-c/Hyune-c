@@ -4,8 +4,8 @@
 
 - E-mail choi8608@gmail.com
 - [Resume - Notion](https://eastern-starflower-6ac.notion.site/203ddcc7f3d74e4e819acac3627d9e26)
-- [Blog](https://hyune-c.tistory.com/)
-- [개인 공부 wiki - gitbook](https://hyune.gitbook.io/study-develop/)
+- [Blog - Tistory](https://hyune-c.tistory.com/)
+- [개인 공부 wiki - Gitbook](https://hyune.gitbook.io/study-develop/)
 
 🌟 Experience 
 ---
