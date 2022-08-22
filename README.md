@@ -5,5 +5,3 @@
 - [Resume - Notion](https://eastern-starflower-6ac.notion.site/203ddcc7f3d74e4e819acac3627d9e26)
 - [Blog - Tistory](https://hyune-c.tistory.com/)
 - [개인 공부 Wiki - Gitbook](https://hyune.gitbook.io/study-develop/)
-
-https://eastern-starflower-6ac.notion.site/220822-444dea4d5b6f4d28832935424ffe26b1
