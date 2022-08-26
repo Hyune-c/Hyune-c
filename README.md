@@ -4,5 +4,6 @@
 
 - [Resume - Notion](https://eastern-starflower-6ac.notion.site/203ddcc7f3d74e4e819acac3627d9e26)
 - [Blog - Tistory](https://hyune-c.tistory.com/)
-- [개인 공부 Wiki - Gitbook](https://hyune.gitbook.io/study-develop/)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat)](choi8608@gmail.com) choi8608@gmail.com
+- [개인 공부 Wiki - Gitbook](https://hyune.gitbook.io/study-develop/)  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat)](choi8608@gmail.com) choi8608@gmail.com
