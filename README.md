@@ -1,6 +1,6 @@
 # :ok_man:&nbsp;최병현 | 도움이 되고 싶은 개발자 
 
-<img src="https://user-images.githubusercontent.com/55722186/202387388-ff1e580b-e2c3-47f6-bf3b-80a0980d9e6b.png"  width="40%" height="40%"/>
+<img src="https://user-images.githubusercontent.com/55722186/202387388-ff1e580b-e2c3-47f6-bf3b-80a0980d9e6b.png"  width="50%" height="50%"/>
 
 항상 동료의 일을 먼저 생각하고 도움을 줄 수 있는 친절한 개발자가 되고 싶습니다.
 
