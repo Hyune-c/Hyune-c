@@ -1,4 +1,4 @@
-# :ok_man:&nbsp;최병현 | 도움이 되고 싶은 개발자 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyune-c%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# :ok_man:&nbsp;최병현 | 도움이 되고 싶은 개발자 
 
 [![Resume - Notion](https://img.shields.io/static/v1?label=Notion&message=Resume&color=E16259&style=flat)](https://eastern-starflower-6ac.notion.site/203ddcc7f3d74e4e819acac3627d9e26) 
 [![Wiki - Gitbook](https://img.shields.io/static/v1?label=Gitbook&message=Hyune's+Wiki&color=6366E0&style=flat)](https://hyune.gitbook.io/study-develop/)
