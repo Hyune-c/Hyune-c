@@ -2,8 +2,8 @@
 > 또한 비즈니스의 문제는 혼자서는 해결할 수 없기에 협업을 위한 문제 정의와 실행 가능한 안 선택, 문서화 능력이 필수라고 생각합니다.
 >
 > 그리고 좋은 개발자라면 자기 개발은 당연하고, 함께 자라기에 대한 생각이 있어야 된다고 생각합니다.
->
-> - 일부 캡쳐는 면접간 부연 설명이 추가 됩니다. [Portfolio Link](https://github.com/Hyune-c/Hyune-c/blob/master/resume_%20portfolio.md)
+
+> 일부 캡쳐는 면접간 부연 설명이 필요하며, 웹에서 보시면 가독성이 더 좋습니다. [Portfolio Link](https://github.com/Hyune-c/Hyune-c/blob/master/resume_%20portfolio.md)
 
 ## 1. 뤼튼에서 한 일 (24.01 ~ 24.06)
 
