@@ -21,14 +21,14 @@
 | [AI 모델 서비스 서빙 개발, 운영](https://hyune-c.notion.site/AI-0f68cce75c2c4bd9b18e3b7cace4a202?pvs=4)                | - Spring-AI 를 확장하여 개발<br/>- 전 세계에 흩어진 27 개의 Azure PTU resource 서빙 서비스 개발<br/>- 최전방 노출 서비스에 대해 무중단 교체 및 성능 향상 달성<br/>&nbsp;&nbsp;&nbsp;&nbsp;- RPM 750, API Response Time 20% 감소. 오류건 감소 |
 | [OpenAi Tiktokenizer 서비스 개발 ](https://hyune-c.notion.site/Tokenizer-0aacc387412b4773a921ef3ec4f310b1?pvs=4) | - Python + Fast + OpenAI Tiktokenizer 라이브러리 기반 개발 <br/>- 빠르게 변하는 Token Encoding 방식에 대응하기 위해 Python 으로 개발                                                                                |
 
-### Core Part 업무
+### Core Part 업무 [아키텍처 Link](https://hyune-c.notion.site/85d1eb7cefbc496994e9bcaf6aab3ed8?pvs=4)
 
-| 제목                               | 요약                                                                                                                                                                                  |
-|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| CDS 운영<br/>(Common Data Service) | - 여러 서비스에서 공통으로 사용되는 기능을 지원하는 API 서버 운영 [아키텍처 Link](https://hyune-c.notion.site/85d1eb7cefbc496994e9bcaf6aab3ed8?pvs=4)<br/>- 유해 키워드, 한중일 문자열 분석, 이메일 유효성 검증, 이미지 리사이즈, tiktoken 계산 |
-| 전사 기술 수준 향상을 위해                  | - 테크 스펙, 아키텍처, PR 리뷰<br/>- 사내 기술 스터디, 테크 피드 운영                                                                                                                                      |
-| 기술 POC 및 템플릿 코드화하여 사내 배포         | - 모듈 구조, 테스트 코드, 부하 테스트, 모니터링                                                                                                                                                       |
-| 기타                               | - Spring-AI 오픈소스 컨트리뷰트 [PR Link](https://github.com/spring-projects/spring-ai/pulls?q=is%3Apr+is%3Aclosed+author%3AHyune-c)                                                         |
+| 제목                               | 요약                                                                                                                          |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| CDS 운영<br/>(Common Data Service) | - 여러 서비스에서 공통으로 사용되는 기능을 지원하는 API 서버 운영 <br/>- 유해 키워드, 한중일 문자열 분석, 이메일 유효성 검증, 이미지 리사이즈, tiktoken 계산                        |
+| 전사 기술 수준 향상을 위해                  | - 테크 스펙, 아키텍처, PR 리뷰<br/>- 사내 기술 스터디, 테크 피드 운영                                                                              |
+| 기술 POC 및 템플릿 코드화하여 사내 배포         | - 모듈 구조, 테스트 코드, 부하 테스트, 모니터링                                                                                               |
+| 기타                               | - Spring-AI 오픈소스 컨트리뷰트 [PR Link](https://github.com/spring-projects/spring-ai/pulls?q=is%3Apr+is%3Aclosed+author%3AHyune-c) |
 
 ## 2. 컬리페이에서 한 일 (22.09 ~ 23.12)
 
