@@ -1,6 +1,6 @@
 > 일부 캡쳐는 면접간 부연 설명이 필요하며, 웹에서 보시면 가독성이 더 좋습니다. [포트폴리오 Link](https://github.com/Hyune-c/Hyune-c/blob/master/resume_%20portfolio.md)
 
-## 1. 뤼튼에서 한 일 (24.01 ~ 24.06)
+## 1. 뤼튼에서 한 일 (24.01 ~ 24.07)
 
 ```text
 - Kotlin + Spring Boot 3.x.x
