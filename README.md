@@ -4,6 +4,8 @@
   <img src="https://render.gitanimals.org/farms/hyune-c"/>
 </a>
 
+</br></br>
+
 <img src="https://user-images.githubusercontent.com/55722186/202387388-ff1e580b-e2c3-47f6-bf3b-80a0980d9e6b.png"  width="45%" height="45%"/>
 
 [![Resume](https://img.shields.io/badge/Resume-0DB46D?style=flat)](https://hyune-c.notion.site/hyune-c/a291e10cee4f46b780ef674fcfa6c0a1) 
