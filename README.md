@@ -1,7 +1,11 @@
 # :ok_man:&nbsp;최병현 | 도움이 되고 싶은 개발자 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/hyune-c"/>
+<img
+  src="https://render.gitanimals.org/farms/Hyune-c"
+  width="70%"
+  height="70%"
+/>
 </a>
 
 </br>
