@@ -1,4 +1,5 @@
-> 일부 캡쳐는 면접간 부연 설명이 필요하며, 웹에서 보시면 가독성이 더 좋습니다. [포트폴리오 Link](https://github.com/Hyune-c/Hyune-c/blob/master/resume_%20portfolio.md)
+> 일부 캡쳐는 면접간 부연 설명이 필요하며, 웹에서 보시면 가독성이 더
+> 좋습니다. [포트폴리오 Link](https://github.com/Hyune-c/Hyune-c/blob/master/resume_%20portfolio.md)
 
 ## 1. 뤼튼에서 한 일 (24.01 ~ 24.07)
 
@@ -88,3 +89,23 @@
 | [같이 자라기](https://hyune-c.notion.site/c2bc0343a13340899adac0880f6cb581?pvs=4)          | - 꾸준한 사내 위키 작성, 기술 공유 & 교육 세션 진행                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | [자기 발전](https://hyune-c.notion.site/d9240728504c46dcbe55b7f6d4a76ce9?pvs=4)<br/>      | - RSS 구독, 블로그 작성, 코드 리뷰어 & 멘토링 활동<br>- 실무에 적용 가능한 내용들을 사전에 학습하고 실제로 적용함<br/><br/>[Hyune-s-lab](https://github.com/orgs/Hyune-s-lab/repositories) - 각종 공부자료를 모아놓은 organization<br/>[kotlin-workshop](https://github.com/Hyune-s-lab/kopring-workshop) - 공통으로 사용되는 기능들을 템플릿화<br/>[url-shortener](https://github.com/Hyune-s-lab/url-shortener) - 업무 변화에 따른 개발을 구현체 변경으로 개발한 프로젝트 with hexagonal <br/>[우리반 은행](https://github.com/Our-Class-Bank/core-backend) - 용돈관리, 신용점수 관리 프로그램. 1명의 교사, 26명의 초등학생이 실 사용<br/> |
 | 타 언어에 대한 거부감이 적음                                                                      | - 알바체크: python 레거시를 java spring 으로 전환<br>- 컬리페이: go 레거시를 kotlin spring 으로 일부 전환<br>- 뤼튼: python, fast-api 기반으로 서비스 개발<br/>- 대부분의 사이드 프로젝트에서 docker, shell script 사용                                                                                                                                                                                                                                                                                                                                            |
+
+## 5. 기타 경험
+
+### 멘토링 & 코드 리뷰어
+
+| 연도   | 멘토링                                                 | 코드 리뷰어  |
+|------|-----------------------------------------------------|---------|
+| 2025 | - 벤처기업협회 PLAY 4 JOB<br/>- 왓에버: 한 달 동안 Legacy 리팩토링하기 |         |
+| 2024 | - 멀티캠퍼스 개발자 취업캠프<br/>- 원광대학교 캡스톤                    | - 코드스쿼드 |
+| 2023 | - 멀티캠퍼스 개발자 취업캠프<br/>- 코드스테이츠                       | - 코드스쿼드 |
+| 2022 | - 코드스테이츠                                            | - 코드스쿼드 |
+| 2021 |                                                     | - 코드스쿼드 |
+
+- \`23 ~ `24 부트캠프 멘토링 - 멀티캠퍼스 백엔드 개발자 취업캠프
+
+### 강의 & 발표
+
+- [`24 패스트캠퍼스 - 10개 프로젝트로 시작하는 … : Part 9](https://fastcampus.co.kr/dev_online_javaspring)
+- [`22 마켓컬리 테크 대규모 채용 - 컬리페이 개발자로 참여](https://www.youtube.com/watch?v=G-pyHF0T0xk)
+- [`21 코드스쿼드 - Pagination 기술 선택하기](https://docs.google.com/presentation/d/1QZ28dxJaPvExyqyO70bhE6EuTloz1l5cqTpDjxhf4y8/edit?usp=sharing)
