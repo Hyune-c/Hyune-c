@@ -77,7 +77,9 @@
 | 마켓봄 프로 개발<br/>(마켓보로 대표 B2B 플랫폼) | - 이종 플랫폼의 회원 통합 및 운영 방법에 대한 MSA 고민 [마이크로 서비스도 리소스 동기화가 필요할까?](https://hyune-c.tistory.com/entry/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8F%84-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EB%8F%99%EA%B8%B0%ED%99%94%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C?category=991435)<br/>- 높은 트래픽에 대응할 수 있는 아키텍처 설계 [대량 데이터 조회와 유지보수는 어떻게 해야될까?](https://hyune-c.tistory.com/entry/%EB%8C%80%EB%9F%89-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%ED%9A%8C%EC%9C%A0%EC%A7%80%EB%B3%B4%EC%88%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%EB%90%A0%EA%B9%8C?category=991435)<br/>- 카카오 알림톡을 호출하는 레거시 로직 리팩토링 [느슨한 결합도의 설계를 위해!](https://hyune-c.tistory.com/32) |
 | 전사 로깅 강화를 위한 datadog 도입         | - cloudwatch 기반의 관제 환경을 datadog 으로 전환 [Datadog 에서 GraphQL 모니터링 맛보기](https://hyune-c.tistory.com/entry/Datadog-%EC%97%90%EC%84%9C-GraphQL-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%A7%9B%EB%B3%B4%EA%B8%B0?category=989703) <br/>- 진입점이 `POST /graphql` 로 통일되는 문제를 해결하기 위해 커스텀 방법을 연구 (span, tag)<br/>- 베스핀글로벌과 비개발 영역 업무 협의 (비용, 도입방법 등), 도커라이징 및 배포 프로세스 개선                                                                                                                                                                                                                                                                                                                       |
 
-## 4. 비즈니스 개발자로서의 태도
+## 4. 기타 경험
+
+### 비즈니스 개발자로서의 태도
 
 > 비즈니스 개발자라면 순수 개발만이 아닌 문제 해결 능력이 중요하다고 생각합니다.  
 > 또한 비즈니스의 문제는 혼자 해결할 수 없기에 협업을 위한 문제 정의와 실행 계획 선택, 문서화 능력이 필수라고 생각합니다.  
@@ -90,7 +92,7 @@
 | [자기 발전](https://hyune-c.notion.site/d9240728504c46dcbe55b7f6d4a76ce9?pvs=4)<br/>      | - RSS 구독, 블로그 작성, 코드 리뷰어 & 멘토링 활동<br>- 실무에 적용 가능한 내용들을 사전에 학습하고 실제로 적용함<br/><br/>[Hyune-s-lab](https://github.com/orgs/Hyune-s-lab/repositories) - 각종 공부자료를 모아놓은 organization<br/>[kotlin-workshop](https://github.com/Hyune-s-lab/kopring-workshop) - 공통으로 사용되는 기능들을 템플릿화<br/>[url-shortener](https://github.com/Hyune-s-lab/url-shortener) - 업무 변화에 따른 개발을 구현체 변경으로 개발한 프로젝트 with hexagonal <br/>[우리반 은행](https://github.com/Our-Class-Bank/core-backend) - 용돈관리, 신용점수 관리 프로그램. 1명의 교사, 26명의 초등학생이 실 사용<br/> |
 | 타 언어에 대한 거부감이 적음                                                                      | - 알바체크: python 레거시를 java spring 으로 전환<br>- 컬리페이: go 레거시를 kotlin spring 으로 일부 전환<br>- 뤼튼: python, fast-api 기반으로 서비스 개발<br/>- 대부분의 사이드 프로젝트에서 docker, shell script 사용                                                                                                                                                                                                                                                                                                                                            |
 
-## 5. 기타 경험
+### 외부 활동
 
 | 연도   | 강의 & 발표                                                                                                                             | 멘토링 & 코드 리뷰어                                 |
 |------|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
