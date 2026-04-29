@@ -1,5 +1,5 @@
 > 일부 아키텍처 다이어그램과 코드 스니펫은 이해를 돕기 위해 실제 구현을 축약하거나 슈도코드화했습니다.  
-> 자세한 맥락은 면접 과정에서 부연 설명드릴 수 있으며, 웹 포트폴리오에서 더 높은 가독성으로 확인하실 수
+> 자세한 맥락은 면접 과정에서 부연 설명드릴 수 있으며, 웹에서 더 높은 가독성으로 확인하실 수
 > 있습니다. [포트폴리오 Link](https://github.com/Hyune-c/Hyune-c/blob/master/resume_%20portfolio.md)
 
 ## 1. 사이오닉AI (24.09 ~ now)
@@ -14,7 +14,7 @@
 |----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [A 은행 검색 데이터 서빙 구조 개선](./portfolio/sionic-ai/01_a-bank-search-serving.md)                    | - 710만 벡터 규모의 검색 데이터 서빙/색인 파이프라인 안정성 검증 및 성능 개선<br>- indexer 처리 시간을 약 3시간 30분에서 약 24분으로 단축해 대량 데이터 재색인 리드타임 개선<br>- Parquet 도입과 `indexer-runner` 책임 분리로 배포, 기동, 재처리 과정의 운영 부담 완화                                                                                  |
 | [Storm Parse APIs 개발](./portfolio/sionic-ai/02_storm-parse-apis.md)                          | - 내부용 문서 파싱 기능을 외부 고객이 직접 연동할 수 있는 공개 API 상품으로 확장<br>- API Key 인증, Credit 기반 과금, 사용량 집계까지 이어지는 API 상품 운영 흐름 구현<br>- SaaS zone 과 On-Prem 환경을 함께 지원할 수 있는 실행 구조 설계<br>- 테디노트 공개 세션 이후 외부 업체 문의와 Storm 솔루션 외 첫 SaaS 매출 발생                                            |
-| [OpenGateway 개발/운영](./portfolio/sionic-ai/03_opengateway.md)                                 | - 내부용 LLM Routing 엔진을 OpenAI 호환 공개 API Gateway 상품으로 확장해 개발/운영<br>- Daily 250K 수준의 트래픽, 8개 Provider, 70개 이상의 모델을 서빙<br>- API Key 인증, 호출 기록, 과금, Stripe 결제, Redeem Code, Admin 기능까지 공개 API 상품 운영 흐름 구현<br>- Grafana 관측, 모델 smoke/CI/daily test 로 live 환경의 운영 안정성 개선 |
+| [OpenGateway 개발/운영](./portfolio/sionic-ai/03_opengateway.md)                                 | - 내부용 LLM Routing 엔진을 OpenAI 호환 공개 API Gateway 상품으로 확장해 개발/운영<br>- Daily 250K 수준의 트래픽, 8개 Provider, 70개 이상의 모델을 서빙<br>- API Key, 호출 기록, 과금, Stripe 결제, Redeem Code, Admin 기능까지 공개 API 상품 운영 흐름 구현<br>- Grafana 관측, 모델 smoke/CI/daily test 로 live 환경의 운영 안정성 개선 |
 | [운영 지원 도구 개발 및 업무 표준화](./portfolio/sionic-ai/04_operational-productivity-standardization.md) | - Apidog 기반 API Hub 개념을 도입해 API 문서/테스트 흐름을 표준화<br>- `onepage-payment`, `storm-differ`, `TA(BO)` 등 운영 지원 도구를 개발해 반복 운영 비용을 축소<br>- 표준 Error DTO 와 구조적 Skill 작성 방법을 정리해 팀 단위 개발/운영 기준을 전파                                                                           |
 
 ### AI를 적극적으로 활용하는 개발에 대한 생각 [상세 문서](./portfolio/sionic-ai/05_ai-development-workflow.md)
